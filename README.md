@@ -1,3 +1,14 @@
 # Restricted_VMBQC
 
-If helpful to you, kindly cite the code using: [![DOI](https://zenodo.org/badge/1209218625.svg)](https://doi.org/10.5281/zenodo.19551019)
+
+If you find this repository useful, kindly cite this using
+
+```
+@software{Majumder_VMBQC_1p_2026,
+author = {Majumder, Arunava},
+month = apr,
+title = {{VMBQC\_1p}},
+url = {https://github.com/ArunM10/Restricted_VMBQC},
+year = {2026}
+}
+```
