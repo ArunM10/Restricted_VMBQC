@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: VMBQC_1p
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Arunava
+    family-names: Majumder
+    email: Arunava.Majumder@uibk.ac.at
+    affiliation: Universität Innsbruck
+repository-code: 'https://github.com/ArunM10/Restricted_VMBQC'
+abstract: >-
+  Here we provide the code files to reproduce the results in
+  our paper 'Minimizing classical resources in variational
+  measurement-based quantum computation for generative
+  modeling'
+keywords:
+  - 'MBQC, Quantum Machine learning'
+date-released: '2026-04-14'
